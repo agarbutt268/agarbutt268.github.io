@@ -137,6 +137,10 @@ body{
   margin-right: 10px;
 }
 
+.instagram{
+  width: 300px;
+}
+
 .contact-social{
   display: inline;
   color: white;
