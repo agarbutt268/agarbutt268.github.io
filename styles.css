@@ -99,6 +99,7 @@ body{
   height: 500px;
   margin: 0;
   padding: 0;
+  border: blue 1px solid;
 }
 
 .project-titles{
@@ -109,6 +110,7 @@ body{
   font-size: 1.1em;
   height: 50px;
   line-height: 50px;
+  border: blue 1px solid;
 }
 
 #contact{
@@ -134,6 +136,7 @@ body{
 .contact-link{
   display: flex;
   align-items: center;
+  text-decoration: none;
 }
 
 .logo{
