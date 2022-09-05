@@ -133,12 +133,8 @@ body{
 }
 
 .logo{
-  width: 25px;
+  height: 50px;
   margin-right: 10px;
-}
-
-.instagram{
-  width: 300px;
 }
 
 .contact-social{
