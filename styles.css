@@ -96,6 +96,8 @@ body{
 }
 
 .project-img{
+  width: 400px;
+  height: 400px;
   margin: 0;
   padding: 0;
   border: blue 1px solid;
