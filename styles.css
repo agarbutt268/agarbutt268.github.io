@@ -88,7 +88,6 @@ body{
   text-decoration: none;
   color: black;
   transition: all 0.5s ease-in-out;
-  border: blue 1px solid;
 }
 
 .project-link:hover{
@@ -100,7 +99,6 @@ body{
   height: 400px;
   margin: 0;
   padding: 0;
-  border: blue 1px solid;
 }
 
 .project-titles{
@@ -111,7 +109,6 @@ body{
   font-size: 1.1em;
   height: 50px;
   line-height: 50px;
-  border: blue 1px solid;
 }
 
 #contact{
