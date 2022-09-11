@@ -99,7 +99,6 @@ body{
   height: 400px;
   margin: 0;
   padding: 0;
-  margin-top: -5px;
 }
 
 .project-titles{
@@ -110,6 +109,7 @@ body{
   font-size: 1.1em;
   height: 50px;
   line-height: 50px;
+  margin-top: -5px;
 }
 
 #contact{
