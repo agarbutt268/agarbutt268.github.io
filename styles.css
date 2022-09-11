@@ -99,7 +99,7 @@ body{
   height: 400px;
   margin: 0;
   padding: 0;
-  float: top;
+  margin-top: -5px;
 }
 
 .project-titles{
