@@ -1,0 +1,21 @@
+#tweet-quote {
+    font-size: 2rem;
+    color: black;
+}
+
+#root {
+    width: 35rem;
+    border-radius: 15px;
+}
+
+#quoteBox {
+    font-size: 2rem;
+}
+
+#new-quote {
+    border-radius: 10px;
+}
+
+#author_box {
+    font-size: 1.5rem;
+}
