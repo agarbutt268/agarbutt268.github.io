@@ -10,6 +10,10 @@ let getNewQuote = () => {
 
     success: function (result) {
       $("#text").html(result.quote);
+      $("#tweet-quote").attr(
+        "href",
+        `https://twitter.com/intent/tweet?text=${result.quote}`,
+      );
       $("#author").html(result.author);
     },
   });
